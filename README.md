@@ -59,7 +59,7 @@ Executive Retail Sales Dashboard
 
 Certificate:
 
-<img width="900" height="733" alt="image" src="https://github.com/user-attachments/assets/1525ec75-180a-4722-b623-12decacb786e" />
+<img width="600" height="433" alt="image" src="https://github.com/user-attachments/assets/1525ec75-180a-4722-b623-12decacb786e" />
 
 Click here to [View Credential](https://certificates.mavenanalytics.io/9e04b263-4141-4c42-b60e-2d56c4b75637#acc.Gju0hdo5)
 
