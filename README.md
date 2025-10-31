@@ -1,6 +1,6 @@
 # Executive Dashboard (Tableau Project)
 
-This repository contains my **Tableau Executive Dashboard project**, created as part of the **Maven Analytics Tableau Course**. The project focuses on designing an executive-level dashboard that translates business data into clear, interactive insights for decision-makers.  
+This repository contains my **Tableau Executive Dashboard project**, created as part of the **Maven Analytics Tableau Desktop Course**. The project focuses on designing an executive-level dashboard that translates business data into clear, interactive insights for decision-makers.  
 
 ## 📊 Project Overview  
 This project is part of a **hands-on, project-based Tableau course** designed to teach how to connect, analyze, and visualize data through real-world case studies.  
