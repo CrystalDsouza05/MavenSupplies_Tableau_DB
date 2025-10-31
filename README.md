@@ -55,11 +55,15 @@ Executive Retail Sales Dashboard
 
 <img width="941" height="891" alt="image" src="https://github.com/user-attachments/assets/0d71005f-b5b6-4196-912f-a8e023e5f9a6" />
 
-## Course Certificate and Credentials
+## Course Certificate, Badge and [Credentials](https://certificates.mavenanalytics.io/9e04b263-4141-4c42-b60e-2d56c4b75637#acc.Gju0hdo5)
 
-Certificate:
+**Certificate:**
 
 <img width="600" height="433" alt="image" src="https://github.com/user-attachments/assets/1525ec75-180a-4722-b623-12decacb786e" />
 
-Click here to [View Credential](https://certificates.mavenanalytics.io/9e04b263-4141-4c42-b60e-2d56c4b75637#acc.Gju0hdo5)
+---
+
+**Badge:** 
+
+<img width="400" height="400" alt="Crystal Badge- Maven Analytics Tableau Desktop" src="https://github.com/user-attachments/assets/a91ec505-a8fc-4b92-9640-0386a4105ee1" />
 
